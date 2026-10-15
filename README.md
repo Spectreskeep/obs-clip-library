@@ -91,7 +91,7 @@ No winget? Get Python from [python.org/downloads/windows](https://www.python.org
 
 The replay buffer is OBS's always-on "save the last X seconds" feature. This video walks through it:
 
-**▶ [How to set up the OBS replay buffer](YOUTUBE_LINK)**
+**▶ [How to set up the OBS replay buffer](https://www.youtube.com/watch?v=fxBTeR8yWqI)**
 
 The short version:
 1. Add a **Display Capture** source so everything on screen is recorded (games and desktop).
