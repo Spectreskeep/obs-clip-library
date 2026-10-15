@@ -6,8 +6,10 @@ Press a hotkey to save the last minute of gameplay. A "Clip saved" popup and sou
 
 It is one Python script for OBS. It runs entirely on your PC, works offline, and you can edit the code however you like.
 
-![Clip library](screenshots/library.png)
-![Clip editor](screenshots/editor.png)
+<img width="1005" height="515" alt="Screenshot 2026-10-14 180740" src="https://github.com/user-attachments/assets/b334fe5a-7f1e-478f-9835-e284c849210f" />
+<img width="1574" height="686" alt="Screenshot 2026-10-14 180707" src="https://github.com/user-attachments/assets/d0c78fae-2731-437b-a13b-13739efe6153" />
+<img width="1915" height="1030" alt="Screenshot 2026-10-14 180636" src="https://github.com/user-attachments/assets/2968d1ea-efaf-49ed-8cfd-cd45756152cd" />
+
 
 ---
 
